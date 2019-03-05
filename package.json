@@ -1,0 +1,19 @@
+{
+  "name": "robo-video-maker",
+  "version": "1.0.0",
+  "description": "Robô baseado no video de Felipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbtravassos/Robo-video-maker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbtravassos/Robo-video-maker/issues"
+  },
+  "homepage": "https://github.com/rbtravassos/Robo-video-maker#readme"
+}
